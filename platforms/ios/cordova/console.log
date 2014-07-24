@@ -1,0 +1,82 @@
+2014-07-23 20:44:19.975 Sociogram[10694:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 20:44:19.982 Sociogram[10694:70b] Unlimited access to network resources
+2014-07-23 20:44:19.984 Sociogram[10694:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-23 20:44:19.998 Sociogram[10694:70b] [CDVTimer][keyboard] 0.061989ms
+2014-07-23 20:44:19.998 Sociogram[10694:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 20:44:19.999 Sociogram[10694:70b] [CDVTimer][statusbar] 0.342011ms
+2014-07-23 20:44:19.999 Sociogram[10694:70b] [CDVTimer][TotalPluginStartup] 1.136005ms
+2014-07-23 20:44:20.053 Sociogram[10694:70b] Resetting plugins due to page load.
+2014-07-23 20:44:20.152 Sociogram[10694:70b] Finished load of: file:///Users/cpantin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1A6087CA-AB92-487D-9278-98A6A6075C06/Sociogram.app/www/index.html#/app/person/me/feed
+2014-07-23 20:44:21.619 Sociogram[10694:70b] Resetting plugins due to page load.
+2014-07-23 20:44:22.078 Sociogram[10694:70b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-07-23 20:44:22.078 Sociogram[10694:70b] Resetting plugins due to page load.
+2014-07-23 20:44:22.988 Sociogram[10694:70b] Finished load of: https://www.facebook.com/dialog/oauth?client_id=YOUR_FB_APP_ID&redirect_uri=https://www.facebook.com/connect/login_success.html&response_type=token&display=popup&scope=email,read_stream,publish_stream
+2014-07-23 20:48:26.379 Sociogram[10995:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 20:48:26.386 Sociogram[10995:70b] Unlimited access to network resources
+2014-07-23 20:48:26.389 Sociogram[10995:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-23 20:48:26.402 Sociogram[10995:70b] [CDVTimer][keyboard] 0.055015ms
+2014-07-23 20:48:26.402 Sociogram[10995:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 20:48:26.402 Sociogram[10995:70b] [CDVTimer][statusbar] 0.299990ms
+2014-07-23 20:48:26.403 Sociogram[10995:70b] [CDVTimer][TotalPluginStartup] 1.171052ms
+2014-07-23 20:48:26.450 Sociogram[10995:70b] Resetting plugins due to page load.
+2014-07-23 20:48:26.546 Sociogram[10995:70b] Finished load of: file:///Users/cpantin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1A6087CA-AB92-487D-9278-98A6A6075C06/Sociogram.app/www/index.html#/app/person/me/feed
+Terminating in response to SpringBoard's termination.
+2014-07-23 20:48:45.398 Sociogram[11154:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 20:48:45.408 Sociogram[11154:70b] Unlimited access to network resources
+2014-07-23 20:48:45.417 Sociogram[11154:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-23 20:48:45.435 Sociogram[11154:70b] [CDVTimer][keyboard] 0.086010ms
+2014-07-23 20:48:45.436 Sociogram[11154:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 20:48:45.436 Sociogram[11154:70b] [CDVTimer][statusbar] 0.423014ms
+2014-07-23 20:48:45.437 Sociogram[11154:70b] [CDVTimer][TotalPluginStartup] 1.450002ms
+2014-07-23 20:48:45.584 Sociogram[11154:70b] Resetting plugins due to page load.
+2014-07-23 20:48:45.751 Sociogram[11154:70b] Finished load of: file:///Users/cpantin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1A6087CA-AB92-487D-9278-98A6A6075C06/Sociogram.app/www/index.html#/app/person/me/feed
+2014-07-23 20:48:49.606 Sociogram[11154:70b] Resetting plugins due to page load.
+2014-07-23 20:48:49.964 Sociogram[11154:70b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-07-23 20:48:49.964 Sociogram[11154:70b] Resetting plugins due to page load.
+2014-07-23 20:48:51.759 Sociogram[11154:70b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-07-23 20:48:51.760 Sociogram[11154:70b] Resetting plugins due to page load.
+2014-07-23 20:48:52.216 Sociogram[11154:70b] Finished load of: https://m.facebook.com/login.php?skip_api_login=1&api_key=535968196532119&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv2.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.facebook.com%252Fconnect%252Flogin_success.html%26scope%3Demail%252Cread_stream%252Cpublish_stream%26response_type%3Dtoken%26client_id%3D535968196532119%26ret%3Dlogin&cancel_uri=https%3A%2F%2Fwww.facebook.com%2Fconnect%2Flogin_success.html%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&display=touch&_rdr
+2014-07-23 20:49:18.481 Sociogram[11154:70b] Resetting plugins due to page load.
+2014-07-23 20:49:27.362 Sociogram[11154:70b] Finished load of: https://m.facebook.com/checkpoint/?next=https%3A%2F%2Fm.facebook.com%2Fv2.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.facebook.com%252Fconnect%252Flogin_success.html%26scope%3Demail%252Cread_stream%252Cpublish_stream%26response_type%3Dtoken%26client_id%3D535968196532119%26ret%3Dlogin&refid=9&_rdr
+2014-07-23 20:49:30.365 Sociogram[11154:70b] Resetting plugins due to page load.
+2014-07-23 20:49:33.224 Sociogram[11154:70b] Finished load of: https://m.facebook.com/v2.0/dialog/oauth?redirect_uri=https%3A%2F%2Fwww.facebook.com%2Fconnect%2Flogin_success.html&scope=email%2Cread_stream%2Cpublish_stream&response_type=token&client_id=535968196532119&ret=login&_rdr
+2014-07-23 20:49:37.840 Sociogram[11154:70b] Resetting plugins due to page load.
+2014-07-23 20:49:38.696 Sociogram[11154:70b] Finished load of: https://m.facebook.com/v2.0/dialog/oauth/read
+2014-07-23 20:49:38.699 Sociogram[11154:70b] Resetting plugins due to page load.
+2014-07-23 20:49:39.214 Sociogram[11154:70b] Finished load of: https://www.facebook.com/connect/login_success.html#access_token=CAAHnddH3F5cBAFci6vtzZC60vojS0m4DcH310jOaPUlEZCKeiWlfLJrxZBNQCBPoXzUYSxZCEdmVp5CwE5XZAusqQ2eF96nrOAXCHjhVs8jTTbwtZBilZBwJbfmqrpZCiZAvomUjImY8Gy9UlEfOTZCATIRhgZAdELFLgbc7Yxx4EtO4vIYrwJ7Qf2CMqun8XR4sikU9KcVn1IS6TYMX7hdrZBrp&expires_in=5183999
+2014-07-23 20:51:00.282 Sociogram[11472:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 20:51:00.292 Sociogram[11472:70b] Unlimited access to network resources
+2014-07-23 20:51:00.296 Sociogram[11472:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-23 20:51:00.314 Sociogram[11472:70b] [CDVTimer][keyboard] 0.084996ms
+2014-07-23 20:51:00.314 Sociogram[11472:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 20:51:00.315 Sociogram[11472:70b] [CDVTimer][statusbar] 0.413001ms
+2014-07-23 20:51:00.315 Sociogram[11472:70b] [CDVTimer][TotalPluginStartup] 1.376987ms
+2014-07-23 20:51:00.422 Sociogram[11472:70b] Resetting plugins due to page load.
+2014-07-23 20:51:00.556 Sociogram[11472:70b] Finished load of: file:///Users/cpantin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1A6087CA-AB92-487D-9278-98A6A6075C06/Sociogram.app/www/index.html#/app/person/me/feed
+2014-07-23 20:51:09.980 Sociogram[11472:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-07-23 20:51:09.984 Sociogram[11472:70b] THREAD WARNING: ['InAppBrowser'] took '34.372070' ms. Plugin should use a background thread.
+2014-07-23 20:51:46.362 Sociogram[11472:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
